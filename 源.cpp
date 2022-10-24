@@ -17,5 +17,11 @@ int main()
 	cout << "changed at 20221024 16:51:" << endl << "please input two numbers:";
 	cin >> a >> b;
 	cout << "the result of a multiplied by b is " << a * b << endl;
+
+	//changed at 20221024 17:05
+	int a, b;
+	cout << "changed at 20221024 17:05:" << endl << "please input two numbers:";
+	cin >> a >> b;
+	cout << "the result of a minus b is " << a - b << endl;
 	return 0;
 }
